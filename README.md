@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hi I'm Bartek
 
 ## 🚀 About Me
-I am a student of computer science
+I am a junior frontend and full-stack developer. I have completed my Bachelor's degree in Computer Science and my Master's degree in IT with a specialization in Cybersecurity.
 
 I am learning and developing my skills in various programming languages and technologies:
 
@@ -13,7 +13,15 @@ I am learning and developing my skills in various programming languages and tech
 
 🔹 MySQL, PostgreSQL
 
-🔹 Node.js
+🔹 Node.js, PHP
+
+🔹 Docker 
+
+🔹 IntelliJ, Visual Studio Code
+
+🔹 Jira, Trello, Redmine
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek33642&size_weight=0.5&count_weight=0.5)
 ## 🔗 Links
